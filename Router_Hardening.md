@@ -4,7 +4,7 @@
 El **hardening** de un router implica aplicar una serie de configuraciones y medidas de seguridad para protegerlo contra posibles ataques y garantizar la integridad de la red. En el caso del **Asus ZenWiFi AX**, el router que hemos escogido en esta práctica, es importante reforzar su seguridad para aprovechar al máximo sus prestaciones sin comprometer la protección.
 # Router Hardening
 
-![[Bastionado_de_Sistemas/UD4/Proyecto_8_Seguridad_en_conexiones_invisibles/images/image.png]]
+![Imagen](images/image.png)
 
 Primero, nos dirigimos a la pestaña "AiProtection", que nos permite monitorizar la red en tiempo real para detectar malware, virus e intrusiones antes de que alcancen nuestra red.
 
